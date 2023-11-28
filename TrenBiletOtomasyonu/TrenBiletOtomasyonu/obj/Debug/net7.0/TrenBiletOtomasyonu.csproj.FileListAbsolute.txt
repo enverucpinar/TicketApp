@@ -1,0 +1,15 @@
+/Users/enverucpinar/Desktop/C#/TrenBiletOtomasyonu/TrenBiletOtomasyonu/bin/Debug/net7.0/TrenBiletOtomasyonu
+/Users/enverucpinar/Desktop/C#/TrenBiletOtomasyonu/TrenBiletOtomasyonu/bin/Debug/net7.0/TrenBiletOtomasyonu.deps.json
+/Users/enverucpinar/Desktop/C#/TrenBiletOtomasyonu/TrenBiletOtomasyonu/bin/Debug/net7.0/TrenBiletOtomasyonu.runtimeconfig.json
+/Users/enverucpinar/Desktop/C#/TrenBiletOtomasyonu/TrenBiletOtomasyonu/bin/Debug/net7.0/TrenBiletOtomasyonu.dll
+/Users/enverucpinar/Desktop/C#/TrenBiletOtomasyonu/TrenBiletOtomasyonu/bin/Debug/net7.0/TrenBiletOtomasyonu.pdb
+/Users/enverucpinar/Desktop/C#/TrenBiletOtomasyonu/TrenBiletOtomasyonu/obj/Debug/net7.0/TrenBiletOtomasyonu.csproj.AssemblyReference.cache
+/Users/enverucpinar/Desktop/C#/TrenBiletOtomasyonu/TrenBiletOtomasyonu/obj/Debug/net7.0/TrenBiletOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enverucpinar/Desktop/C#/TrenBiletOtomasyonu/TrenBiletOtomasyonu/obj/Debug/net7.0/TrenBiletOtomasyonu.AssemblyInfoInputs.cache
+/Users/enverucpinar/Desktop/C#/TrenBiletOtomasyonu/TrenBiletOtomasyonu/obj/Debug/net7.0/TrenBiletOtomasyonu.AssemblyInfo.cs
+/Users/enverucpinar/Desktop/C#/TrenBiletOtomasyonu/TrenBiletOtomasyonu/obj/Debug/net7.0/TrenBiletOtomasyonu.csproj.CoreCompileInputs.cache
+/Users/enverucpinar/Desktop/C#/TrenBiletOtomasyonu/TrenBiletOtomasyonu/obj/Debug/net7.0/TrenBiletOtomasyonu.dll
+/Users/enverucpinar/Desktop/C#/TrenBiletOtomasyonu/TrenBiletOtomasyonu/obj/Debug/net7.0/refint/TrenBiletOtomasyonu.dll
+/Users/enverucpinar/Desktop/C#/TrenBiletOtomasyonu/TrenBiletOtomasyonu/obj/Debug/net7.0/TrenBiletOtomasyonu.pdb
+/Users/enverucpinar/Desktop/C#/TrenBiletOtomasyonu/TrenBiletOtomasyonu/obj/Debug/net7.0/TrenBiletOtomasyonu.genruntimeconfig.cache
+/Users/enverucpinar/Desktop/C#/TrenBiletOtomasyonu/TrenBiletOtomasyonu/obj/Debug/net7.0/ref/TrenBiletOtomasyonu.dll
